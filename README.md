@@ -10,7 +10,7 @@ The true power of data lies in its ability to answer fundamental questions. This
 * Explored relationships between weather variables and latitude.
 * Created plots to showcase the relationship between weather variables and latitude.
 * Computed linear regression for each relationship.
-* Explaind findings.
+* Explained findings.
 * Described relationships observed in the data and interpretations from linear regression.
 
 # __Part 2: VacationPy__
