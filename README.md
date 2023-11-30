@@ -21,5 +21,8 @@ The true power of data lies in its ability to answer fundamental questions. This
 * Found nearest hotels.
 * Displayed hotel information on map.
 
+![City Points](https://github.com/kaijaygregory/python-api-challenge/blob/main/output_data/City%20Points.png)
+
+![Hotels](https://github.com/kaijaygregory/python-api-challenge/blob/main/output_data/Hotels.png)
 
 
